@@ -40,6 +40,7 @@ mkdir folder1
 touch system-information.md
 nano system-information.md
 cat system-information.md
+cd Notes
 
 Skills Learned:
 -How to used a basic linux commands, like checking system components cpu, memory, disk, and create a home directory, add folder, and edit files.
