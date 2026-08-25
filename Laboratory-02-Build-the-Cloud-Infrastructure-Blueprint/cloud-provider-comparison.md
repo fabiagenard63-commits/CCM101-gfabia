@@ -1,11 +1,7 @@
 
 | **Infrastructure Component** | **AWS** | **Microsoft Azure** | **Google Cloud Platform** |
-
 | Compute                      |         |                     |                           |
-
 | Storage                      |         |                     |                           |
-
 | Networking                   |         |                     |                           |
-
 | Identity and Access Management|         |                    |                           |
 
