@@ -9,6 +9,12 @@
 Reference Link;
 [(https://techsy.io/en/blog/aws-vs-azure-vs-google-cloud)]
 
+## 1. Which cloud provider offers the broadest range of services? Explain your answer.
 
+## 2. Which cloud platform would you recommend for an organization that primarily uses Microsoft products? 
+Why?
 
+## 3. Which platform is widely recognized for Artificial Intelligence (AI), Machine Learning (ML), and 
+Kubernetes services?
 
+## 4. What similarities did you observe among the three cloud providers?
