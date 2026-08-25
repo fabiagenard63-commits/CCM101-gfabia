@@ -21,12 +21,7 @@ every design decision.
 - Continue building a structured GitHub Cloud Computing Portfolio.
 
 # *Cloud Infrastructure Components
-* Architecture
-* Operating System
-* Main CPU
-* IP Address
-* Disk Component
-* Memory Components
+*
 
 # *Tools Used
 -KillerCoda PlayGround
