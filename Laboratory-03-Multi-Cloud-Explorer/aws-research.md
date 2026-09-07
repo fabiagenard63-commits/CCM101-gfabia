@@ -39,9 +39,9 @@ Core networking capabilities that connect resources, applications, and users sec
 * ## Three (3) Advantages
 
   ### 3 Main Advantages of AWS
-        1. **Trade Fixed Expense for Variable Expense** - Instead of investing heavily in data centers and servers upfront, you pay only when you consume computing resources, and only for how much you consume. As the documentation states, "businesses no longer need to plan for and procure servers and other IT infrastructure weeks or months in advance. Instead, they can instantly spin up hundreds or thousands of servers in minutes and deliver results faster."
-        2. **Stop Guessing Capacity (Elasticity and Scalability)** - Cloud computing eliminates the need to guess infrastructure capacity needs. Rather than sitting on expensive idle resources or dealing with limited capacity, you can "access as much or as little capacity as you need, and scale up and down as required with only a few minutes' notice."
-        3. **Increase Speed and Agility** - In a cloud computing environment, new IT resources are only a click away, reducing the time to make resources available to developers from weeks to just minutes. This results in "a dramatic increase in agility for the organization, since the cost and time it takes to experiment and develop is significantly lower."
+  1. **Trade Fixed Expense for Variable Expense** - Instead of investing heavily in data centers and servers upfront, you pay only when you consume computing resources, and only for how much you consume. As the documentation states, "businesses no longer need to plan for and procure servers and other IT infrastructure weeks or months in advance. Instead, they can instantly spin up hundreds or thousands of servers in minutes and deliver results faster."
+  2. **Stop Guessing Capacity (Elasticity and Scalability)** - Cloud computing eliminates the need to guess infrastructure capacity needs. Rather than sitting on expensive idle resources or dealing with limited capacity, you can "access as much or as little capacity as you need, and scale up and down as required with only a few minutes' notice."
+  3. **Increase Speed and Agility** - In a cloud computing environment, new IT resources are only a click away, reducing the time to make resources available to developers from weeks to just minutes. This results in "a dramatic increase in agility for the organization, since the cost and time it takes to experiment and develop is significantly lower."
 
 * ## Typical Enterprise Use Cases
 
