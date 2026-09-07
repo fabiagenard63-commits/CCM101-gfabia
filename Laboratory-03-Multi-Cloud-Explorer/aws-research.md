@@ -26,13 +26,10 @@
 * ## Four (4) Core Services
 1. **Compute** -
 Provides the processing power needed to run applications. AWS offers scalable compute capacity, allowing you to spin up hundreds or thousands of servers in minutes.
-
 2. **Storage** -
 Highly durable storage options for data at any scale. AWS provides low-cost, reliable storage designed to work with other AWS services.
-
 3. **Databases** -
 High-performance database services tailored to different workload needs, available without upfront cost.
-
 4. **Networking** -
 Core networking capabilities that connect resources, applications, and users securely and reliably.
 
@@ -44,5 +41,17 @@ Core networking capabilities that connect resources, applications, and users sec
   3. **Increase Speed and Agility** - In a cloud computing environment, new IT resources are only a click away, reducing the time to make resources available to developers from weeks to just minutes. This results in "a dramatic increase in agility for the organization, since the cost and time it takes to experiment and develop is significantly lower."
 
 * ## Typical Enterprise Use Cases
+ 1. **MCP Server Enterprise Use Cases** Organizations deploy MCP (Model Context Protocol) servers to enhance AI applications across these domains.
+    - Enterprise Knowledge Access: Connect AI assistants to document management systems, databases, wikis, and internal knowledge bases. Employees can query organizational information conversationally using natural language.
+    - Workflow Automation: AI assistants can create and update tickets in project management systems like Jira or Asana, interact with CRM platforms, and trigger business process automation workflows.
+    - Data Analysis: Translate natural language requests into database queries, generate reports, create visualizations, and provide summaries of business metrics without writing SQL or navigating complex dashboards.
+    - AI Development Tools: Connect AI-powered development tools with version control repositories for real-time code analysis, context-aware suggestions, and CI/CD pipeline integration.
+2. **Coding Agent Use Cases** Common enterprise use cases for AI coding agents include;
+    - Code generation from task descriptions
+    - Code refactoring and optimization
+    - Test-case generation and validation
+    - Error explanations and debugging
+    - Documentation assistants
+    - Paired programming copilots
 
  
