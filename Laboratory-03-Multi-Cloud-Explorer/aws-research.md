@@ -22,3 +22,16 @@
       7. Create and manage AWS applications – Manage and monitor the cost, health, security posture, and performance of your applications using myApplications in AWS Console Home.
       8. Chat with Amazon Q – You can get generative artificial intelligence (AI) assistant powered answers to your AWS service questions directly from the console. You can also get connected with a live agent for additional support.
       9. Control AWS account access in your network – You can use AWS Management Console Private Access to limit access to the AWS Management Console to a specified set of known AWS accounts when the traffic originates from within your network.
+
+* ## Four (4) Core Services
+1. Compute
+Provides the processing power needed to run applications. AWS offers scalable compute capacity, allowing you to spin up hundreds or thousands of servers in minutes.
+
+2. Storage
+Highly durable storage options for data at any scale. AWS provides low-cost, reliable storage designed to work with other AWS services.
+
+3. Databases
+High-performance database services tailored to different workload needs, available without upfront cost.
+
+4. Networking
+Core networking capabilities that connect resources, applications, and users securely and reliably.
