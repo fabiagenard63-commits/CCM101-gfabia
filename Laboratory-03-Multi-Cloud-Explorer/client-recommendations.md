@@ -22,4 +22,4 @@ A university already uses:
 - Windows Server
 - Microsoft 365
 - Active Directory
-The university wants to migrate some services to the cloud. 
+  The university wants to migrate some services to the cloud. 
