@@ -24,9 +24,11 @@ Cloud Shell is best for using Azure CLI or Azure PowerShell without local setup
 
 ### **References:** 
 - https://learn.microsoft.com/en-us/azure/developer/intro/azure-developer-overview
+Global Infrastructure;
 - https://learn.microsoft.com/en-us/azure/reliability/regions-overview
 - https://learn.microsoft.com/en-us/azure/reliability/regions-list?tabs=all
 - https://learn.microsoft.com/en-us/azure/virtual-machines/regions
 - https://azure.microsoft.com/en-us/explore/global-infrastructure/
 - https://learn.microsoft.com/en-us/azure/well-architected/design-guides/regions-availability-zones
+Cloud Management Console;
 - https://azure.microsoft.com/en-us/get-started/azure-portal/cloud-shell#layout-container-uide427
