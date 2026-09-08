@@ -54,4 +54,4 @@ Core networking capabilities that connect resources, applications, and users sec
     - Documentation assistants
     - Paired programming copilots
 
- 
+**Reference:** https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
