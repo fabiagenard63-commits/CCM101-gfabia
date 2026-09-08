@@ -24,3 +24,12 @@ A university already uses:
 - Active Directory
 
 The university wants to migrate some services to the cloud. 
+
+* **RECOMMENDED PLATFORM:**
+Microsoft Azure
+* **Why?**
+Since Azure is built by Microsoft it actually a solid platform to migrate the mentioned services into the cloud, because most of it is compatible for integration and have a low issues when migrating since they are all services/product of Microsoft so expect a seamless integration, and also one of the advantage is that using a some specific services you just need to sync your active directory to migrate all of your data into the cloud.
+* **Three possibly services that can be use**
+  1. **Microsoft Entra ID (Azure AD)** – to extend/sync your on-prem Active Directory to the cloud for identity and access management.
+  2. **Azure Virtual Machines** – to lift-and-shift your existing Windows Server workloads to the cloud.
+  3. **Azure Migrate** – Microsoft's dedicated tool for assessing and migrating on-prem servers/workloads into Azure with minimal friction.
