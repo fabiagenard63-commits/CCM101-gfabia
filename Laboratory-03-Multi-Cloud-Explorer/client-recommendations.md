@@ -21,5 +21,5 @@ growth within the next few years.
 A university already uses:
 - Windows Server
 - Microsoft 365
-- Active Directory
-  The university wants to migrate some services to the cloud. 
+- Active Directory.
+The university wants to migrate some services to the cloud. 
