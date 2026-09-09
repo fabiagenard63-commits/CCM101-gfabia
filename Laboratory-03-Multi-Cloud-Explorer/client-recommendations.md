@@ -62,4 +62,13 @@ AWS is the ideal choice for a multinational e-commerce company because it has th
   3. **Amazon Route 53** – a highly available DNS and traffic-routing service that can direct users to the nearest/healthiest server, supporting global load balancing and failover.
 
 
+## Cloud Provider Decision Matrix
 
+| Business Requirement     | Recommended Platform | Justification                                                        |
+|----------------------------|------------------------|-------------------------------------------------------------------------|
+| Startup Company            | AWS                    | Pay-as-you-go pricing and easy scalability for growing teams.          |
+| Enterprise Organization    | AWS                    | Mature, reliable service catalog with strong global infrastructure.    |
+| Microsoft Environment      | Azure                  | Seamless integration with Windows Server, M365, and Active Directory.  |
+| AI / Machine Learning      | GCP                    | Birthplace of TensorFlow, with custom TPUs for AI workloads.           |
+| Kubernetes Deployment      | GCP                    | Created Kubernetes; GKE is the most mature managed option.             |
+| Global Web Application     | AWS                    | Largest global footprint with proven auto-scaling and high availability. |
