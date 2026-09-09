@@ -43,7 +43,7 @@ Google Cloud Platform (GCP)
 * **Why?**
 GCP have the deepest technical roots when it comes to AI, because it is the birthplace of tensor flow which is the most used framework for Machine Learning Technology it is mainly design to accelerate Machine learning, TPUs ( Tensor Processing Unit ) is a hardware specifically designed to accelerate AI training and interference faster, so for client whose core need is building a AI and Machine Learning Applications GCP is well suited platform for it.
 * **Three possibly services that can be use:**
-  1.**Vertex AI** – Google's unified ML platform for building, training, and deploying models end-to-end.
+  1. **Vertex AI** – Google's unified ML platform for building, training, and deploying models end-to-end.
   2. **TensorFlow / TPUs (via Compute Engine)** – custom hardware acceleration for training large models faster and cheaper than standard GPUs.
   3. **BigQuery ML** – lets you build and run ML models directly on large datasets using SQL, which is great for data-heavy AI use cases without needing a separate ML pipeline.
 
