@@ -15,3 +15,15 @@ As The words Microsoft, The best technology to use is the Microsoft Azure becaus
 3. Which provider is strongest in Artificial Intelligence and Kubernetes?
 Google Cloud Platform is the strongest in both. It invented Kubernetes (via its internal Borg system) and built GKE as the most refined managed Kubernetes service, and it leads in AI with custom TPUs, Vertex AI, and being the birthplace of TensorFlow and the Transformer architecture behind modern LLMs. AWS and Azure are strong competitors, but GCP has the technical edge in these two areas specifically.
    
+
+## Cloud Service Comparison Table
+
+| Service Category    | AWS                                        | Azure                                | GCP                                     |
+|----------------------|---------------------------------------------|----------------------------------------|--------------------------------------------|
+| Virtual Machine      | EC2 (Elastic Compute Cloud)                | Virtual Machines                      | Compute Engine                             |
+| Object Storage       | S3 (Simple Storage Service)                | Blob Storage                          | Cloud Storage                              |
+| Identity Management  | IAM (Identity and Access Management)       | Microsoft Entra ID (Azure AD)         | Cloud IAM                                  |
+| SQL Database         | RDS (Relational Database Service)          | Azure SQL Database                    | Cloud SQL                                  |
+| Kubernetes           | EKS (Elastic Kubernetes Service)           | AKS (Azure Kubernetes Service)        | GKE (Google Kubernetes Engine)             |
+
+
