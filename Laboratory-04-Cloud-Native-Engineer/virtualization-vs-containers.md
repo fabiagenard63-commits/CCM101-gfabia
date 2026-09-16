@@ -10,6 +10,7 @@
 | Isolation Level | Hardware Level | Process Level |
 
 * **Recommendation summary to the client**
+  
 As we can see on the table above there is so many factor to consider transferring to containers, first is the faster start up boot because containers doesn't need high ram consumption unlike to Virtual Machines that needs high/heavy used of Ram, next is containers need only low resources like Ram, Cpu, Storage because it uses a shared OS Kernel which Run on a single process so that it have a more faster Boot up that takes seconds, compared to Virtual Machines that it takes minutes to boot.
 
 
