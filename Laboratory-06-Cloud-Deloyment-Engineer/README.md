@@ -27,6 +27,7 @@ At the end of this laboratory activity, you should be able to:
 4. `docker-compose up -d`
 5. `docker-compose ps`
 6. `docker-compose down`
+7. **modified yml executed based on module provided**
 ```yaml
 services:
   database:
