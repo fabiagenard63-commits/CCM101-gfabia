@@ -1,5 +1,6 @@
 ## Modified/Corrected Version Based on Modules
-`services:
+```yaml
+services:
   database:
     image: mariadb:10.6
     restart: unless-stopped
@@ -29,8 +30,8 @@
 
 volumes:
   db_data:
-  nextcloud_data:`
-
+  nextcloud_data:
+```
 
 
 ### 1. What does the `services:` block do?
