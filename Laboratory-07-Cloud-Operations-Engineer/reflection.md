@@ -1,3 +1,4 @@
+## Reflection
 Before running your containers its important that you actually conduct a checking of hosts servers resources like disk space and CPU condition because it determines how much traffics the containers can accommodate 
 it is one of the most important part of the container. If a user encounter where they can't log in, docker logs is a very helpful when finding what is wrong, logs is help you pinpoint the exact problem that way you can address 
 the problem and fix it immediately. The difference between logs and metrics is that in logs it mainly checks the requests sent and provide a information if requests sent are success or failed to go through, while the metrics is 
