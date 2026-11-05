@@ -1,6 +1,6 @@
 ## Overview 
 
-* * **Bash Script** is like a text file that contain terminal commands, it runs orderly so you can basically automate a task instead of manually typing each command, `#!/bin/bash` line ( the shebang ) tells the system which program run the file
+* **Bash Script** is like a text file that contain terminal commands, it runs orderly so you can basically automate a task instead of manually typing each command, `#!/bin/bash` line ( the shebang ) tells the system which program run the file
 * without it, the system may run in a different shell and possibly behave differently.
 
 * **Variables Why do programmers use variables (like $BACKUP_DIR) instead of typing out the exact folder path every time?** variables store value once and can reuse it as (eg. $BACKUP_DIR) this helps because it prevents long typos path
